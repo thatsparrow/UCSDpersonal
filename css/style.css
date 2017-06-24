@@ -1,0 +1,64 @@
+body  {
+	font: 90% Arial;
+	background: #FFFFFF;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	color: #000000;
+}
+.twoColHybLtHdr #container {
+	float:left;
+	width: 810;
+	background: #FFFFFF;
+	margin: 0 auto;
+	border-right: 40px solid #ff8000;
+	border-bottom: 10px solid #ff0000;
+	text-align: left;
+}
+.twoColHybLtHdr #header {
+	background: #FFFFFF;
+	border-bottom: 3px solid #ff0000;
+	text-align: center;
+}
+.twoColHybLtHdr #header h1 {
+	margin: 0;
+	padding: 10px 0;
+}
+.twoColHybLtHdr #sidebar1 {
+	float: left;
+	width: 12em;
+	background: #FFFFFF;
+	padding: 15px 0;
+border-right: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+
+}
+.twoColHybLtHdr #sidebar1 h3, .twoColHybLtHdr #sidebar1 p {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.twoColHybLtHdr #mainContent {
+	margin: 0 20px 0 13em;
+}
+.twoColHybLtHdr #footer {
+	padding: 0 10px; /
+	background:#EBEBEB;
+}
+.twoColHybLtHdr #footer p {
+	margin: 0;
+	padding: 10px 0;
+}
+.fltrt {
+	float: right;
+	margin-left: 10px;
+}
+.fltlft {
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat {
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
