@@ -1,2 +1,4 @@
-# UCSDpersonal
-UCSD personal website
+# Jann's personal website @UCSD
+
+ssh jbenjami@acsweb.ucsd.edu
+password: lolcats
